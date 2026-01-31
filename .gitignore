@@ -1,0 +1,22 @@
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output
+histograms_output/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
